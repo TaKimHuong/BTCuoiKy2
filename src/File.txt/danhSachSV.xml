@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DsSinhVien totalStudents="0">
+    <student rollno="1">
+        <MaSV>20BA340</MaSV>
+        <TenSV>Lưu Thị Kim Linh</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2002-01-24</NgaySinh>
+        <QueQuan>Bình Định</QueQuan>
+        <NoiO>Liên Chiểu</NoiO>
+        <SDT>324405161</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A112</MaPhong>
+    </student>
+    <student rollno="2">
+        <MaSV>22IT056</MaSV>
+        <TenSV>Bùi Thị Kim Ngân</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2003-07-23</NgaySinh>
+        <QueQuan>Quảng Nam</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>324568362</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A525</MaPhong>
+    </student>
+    <student rollno="3">
+        <MaSV>23AI005</MaSV>
+        <TenSV>Nguyen Thi Diem Quynh</TenSV>
+        <GioiTinh>Nu</GioiTinh>
+        <NgaySinh>2005-01-02</NgaySinh>
+        <QueQuan>Thua Thien Hue</QueQuan>
+        <NoiO>Ngu Hanh Son</NoiO>
+        <SDT>9087</SDT>
+        <CCCD>tguhgei</CCCD>
+        <NgayVao>2024-01-01</NgayVao>
+        <NgayRa>2024-06-01</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A305</MaPhong>
+    </student>
+    <student rollno="4">
+        <MaSV>23AI098</MaSV>
+        <TenSV>Tran Van Xuan</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-09-08</NgaySinh>
+        <QueQuan>Quang Binh</QueQuan>
+        <NoiO>Hai Chau</NoiO>
+        <SDT>123</SDT>
+        <CCCD>098M</CCCD>
+        <NgayVao>2024-01-02</NgayVao>
+        <NgayRa>2024-06-01</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A412</MaPhong>
+    </student>
+    <student rollno="5">
+        <MaSV>23BA098</MaSV>
+        <TenSV>Nguyễn Văn Hiếu</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2002-07-16</NgaySinh>
+        <QueQuan>Thừa Thiên Huế</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>324568123</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A223</MaPhong>
+    </student>
+    <student rollno="6">
+        <MaSV>23BA206</MaSV>
+        <TenSV>Tô Hữu Bằng</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>1991-06-04</NgaySinh>
+        <QueQuan>Hà Nội</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>91237689</SDT>
+        <CCCD>0987V</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A326</MaPhong>
+    </student>
+    <student rollno="7">
+        <MaSV>23DA112</MaSV>
+        <TenSV>Nguyễn Thanh Tùng</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2001-07-04</NgaySinh>
+        <QueQuan>Thái Bình</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>912003321</SDT>
+        <CCCD>054305V</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A412</MaPhong>
+    </student>
+    <student rollno="8">
+        <MaSV>23DM005</MaSV>
+        <TenSV>Võ Thị Ý Nhi</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2005-01-22</NgaySinh>
+        <QueQuan>Quảng Trị</QueQuan>
+        <NoiO>Liên Chiểu</NoiO>
+        <SDT>324568248</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A306</MaPhong>
+    </student>
+    <student rollno="9">
+        <MaSV>23DM008</MaSV>
+        <TenSV>Nguyễn Hữu Đạt</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-06-24</NgaySinh>
+        <QueQuan>Hồ Chí Minh</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>329008213</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A412</MaPhong>
+    </student>
+    <student rollno="10">
+        <MaSV>23DM098</MaSV>
+        <TenSV>Phùng Thị Thanh Thảo</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2001-02-03</NgaySinh>
+        <QueQuan>Quảng Trị</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>98000235</SDT>
+        <CCCD>98674V</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A525</MaPhong>
+    </student>
+    <student rollno="11">
+        <MaSV>23DM100</MaSV>
+        <TenSV>Huỳnh Ngọc Mai</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2005-01-09</NgaySinh>
+        <QueQuan>Bình Định</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>154660098</SDT>
+        <CCCD>0987M</CCCD>
+        <NgayVao>2024-01-01</NgayVao>
+        <NgayRa>2024-06-01</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A527</MaPhong>
+    </student>
+    <student rollno="12">
+        <MaSV>23DM125</MaSV>
+        <TenSV>Nguyễn Văn Toản</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-04-21</NgaySinh>
+        <QueQuan>Đà Nẵng</QueQuan>
+        <NoiO>Ngũ Hành Sơn</NoiO>
+        <SDT>329018123</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A412</MaPhong>
+    </student>
+    <student rollno="13">
+        <MaSV>23EL001</MaSV>
+        <TenSV>Đặng Phạm Hoài Trân</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2005-04-14</NgaySinh>
+        <QueQuan>Quảng Trị</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>823054789</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A527</MaPhong>
+    </student>
+    <student rollno="14">
+        <MaSV>23EL002</MaSV>
+        <TenSV>Võ Thị Hoài Nguyên</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2005-01-24</NgaySinh>
+        <QueQuan>Bình Định</QueQuan>
+        <NoiO>Thanh Khê</NoiO>
+        <SDT>324600123</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A525</MaPhong>
+    </student>
+    <student rollno="15">
+        <MaSV>23EL053</MaSV>
+        <TenSV>Nguyễn Như Quỳnh</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2004-12-12</NgaySinh>
+        <QueQuan>Thừa Thiên Huế</QueQuan>
+        <NoiO>Hải Thái</NoiO>
+        <SDT>983400504</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A527</MaPhong>
+    </student>
+    <student rollno="16">
+        <MaSV>23EL076</MaSV>
+        <TenSV>Võ Hoàng Tin</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-01-28</NgaySinh>
+        <QueQuan>Quảng Nam</QueQuan>
+        <NoiO>Liên Chiểu</NoiO>
+        <SDT>324288123</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A305</MaPhong>
+    </student>
+    <student rollno="17">
+        <MaSV>23EL123</MaSV>
+        <TenSV>Trương Thị Thúy Kiều</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2004-09-12</NgaySinh>
+        <QueQuan>Bình Định</QueQuan>
+        <NoiO>Ngũ Hành Sơn</NoiO>
+        <SDT>324020123</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A101</MaPhong>
+    </student>
+    <student rollno="18">
+        <MaSV>23EL141</MaSV>
+        <TenSV>Huỳnh Thị Kim Ngân</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2004-11-11</NgaySinh>
+        <QueQuan>Quảng Nam</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>823665876</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A527</MaPhong>
+    </student>
+    <student rollno="19">
+        <MaSV>23EL151</MaSV>
+        <TenSV>Huỳnh Văn Phú</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-05-06</NgaySinh>
+        <QueQuan>Phú Thọ</QueQuan>
+        <NoiO>Hải Châu</NoiO>
+        <SDT>863400054</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A406</MaPhong>
+    </student>
+    <student rollno="20">
+        <MaSV>23EL155</MaSV>
+        <TenSV>Hoàng Hải Sơn</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2004-10-15</NgaySinh>
+        <QueQuan>Phú Thọ</QueQuan>
+        <NoiO>Thanh Khê</NoiO>
+        <SDT>374267876</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A406</MaPhong>
+    </student>
+    <student rollno="21">
+        <MaSV>23ET107</MaSV>
+        <TenSV>Lại Văn Quốc Tuấn</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-06-03</NgaySinh>
+        <QueQuan>Đà Nẵng</QueQuan>
+        <NoiO>Ngũ Hành Sơn</NoiO>
+        <SDT>324561003</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A326</MaPhong>
+    </student>
+    <student rollno="22">
+        <MaSV>23ET119</MaSV>
+        <TenSV>Nguyễn Xuân Nhi</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-07-04</NgaySinh>
+        <QueQuan>Quảng Ngãi</QueQuan>
+        <NoiO>Ngũ Hành Sơn</NoiO>
+        <SDT>866234765</SDT>
+        <CCCD>0987V</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A326</MaPhong>
+    </student>
+    <student rollno="23">
+        <MaSV>23IB072</MaSV>
+        <TenSV>Nguyễn Thị Mỹ Lệ</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2004-03-15</NgaySinh>
+        <QueQuan>Hà Tĩnh</QueQuan>
+        <NoiO>Ngũ Hành Sơn</NoiO>
+        <SDT>320877625</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A306</MaPhong>
+    </student>
+    <student rollno="24">
+        <MaSV>23IM006</MaSV>
+        <TenSV>Đỗ Như Phương</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-03-04</NgaySinh>
+        <QueQuan>Phú Thọ</QueQuan>
+        <NoiO>Đà Nẵng</NoiO>
+        <SDT>123456732</SDT>
+        <CCCD>0123V</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A223</MaPhong>
+    </student>
+    <student rollno="25">
+        <MaSV>23IM059</MaSV>
+        <TenSV>Lê Vinh Dự</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-01-26</NgaySinh>
+        <QueQuan>Quảng Trị</QueQuan>
+        <NoiO>Thanh Khê</NoiO>
+        <SDT>324568005</SDT>
+        <CCCD>0454SV</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A412</MaPhong>
+    </student>
+    <student rollno="26">
+        <MaSV>23IM081</MaSV>
+        <TenSV>Huỳnh Thanh Cảnh</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2005-12-19</NgaySinh>
+        <QueQuan>Quảng Nam</QueQuan>
+        <NoiO>Thanh Khê</NoiO>
+        <SDT>949100321</SDT>
+        <CCCD>0987AS</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A101</MaPhong>
+    </student>
+    <student rollno="27">
+        <MaSV>23it2b</MaSV>
+        <TenSV>Nguyễn Thị Ngọc Nga</TenSV>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgaySinh>2001-01-01</NgaySinh>
+        <QueQuan>Quảng Trị</QueQuan>
+        <NoiO>Hải Thái</NoiO>
+        <SDT>987654300</SDT>
+        <CCCD>0987V</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A112</MaPhong>
+    </student>
+    <student rollno="28">
+        <MaSV>23MF</MaSV>
+        <TenSV>Huỳnh Nguyễn Như Phương</TenSV>
+        <GioiTinh>Nam</GioiTinh>
+        <NgaySinh>2001-09-07</NgaySinh>
+        <QueQuan>Quảng Bình</QueQuan>
+        <NoiO>Thanh Khê</NoiO>
+        <SDT>978234890</SDT>
+        <CCCD>0987Vv</CCCD>
+        <NgayVao>2023-01-02</NgayVao>
+        <NgayRa>2024-01-06</NgayRa>
+        <MaNV>001TK</MaNV>
+        <MaPhong>A102</MaPhong>
+    </student>
+</DsSinhVien>

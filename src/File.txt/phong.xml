@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Phong totalPhong="0">
+    <phong rollno="1">
+        <MaPhong>A101</MaPhong>
+        <TenPhong>Phòng A101</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>1</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="2">
+        <MaPhong>A102</MaPhong>
+        <TenPhong>Phòng A102</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>1</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="3">
+        <MaPhong>A103</MaPhong>
+        <TenPhong>Phòng A103</TenPhong>
+        <DienTich>64</DienTich>
+        <Tang>1</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="4">
+        <MaPhong>A112</MaPhong>
+        <TenPhong>Phòng A112</TenPhong>
+        <DienTich>64</DienTich>
+        <Tang>1</Tang>
+        <SoNguoiO>8</SoNguoiO>
+        <GiaTien>600000</GiaTien>
+    </phong>
+    <phong rollno="5">
+        <MaPhong>A204</MaPhong>
+        <TenPhong>Phòng A204</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>2</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="6">
+        <MaPhong>A205</MaPhong>
+        <TenPhong>Phòng A205</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>2</Tang>
+        <SoNguoiO>8</SoNguoiO>
+        <GiaTien>600000</GiaTien>
+    </phong>
+    <phong rollno="7">
+        <MaPhong>A206</MaPhong>
+        <TenPhong>Phòng A206</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>2</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="8">
+        <MaPhong>A223</MaPhong>
+        <TenPhong>Phòng A223</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>2</Tang>
+        <SoNguoiO>8</SoNguoiO>
+        <GiaTien>600000</GiaTien>
+    </phong>
+    <phong rollno="9">
+        <MaPhong>A305</MaPhong>
+        <TenPhong>Phòng A305</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>3</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="10">
+        <MaPhong>A306</MaPhong>
+        <TenPhong>Phòng A306</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>3</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="11">
+        <MaPhong>A307</MaPhong>
+        <TenPhong>Phòng A307</TenPhong>
+        <DienTich>64</DienTich>
+        <Tang>3</Tang>
+        <SoNguoiO>8</SoNguoiO>
+        <GiaTien>600000</GiaTien>
+    </phong>
+    <phong rollno="12">
+        <MaPhong>A313</MaPhong>
+        <TenPhong>Phòng A313</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>3</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="13">
+        <MaPhong>A326</MaPhong>
+        <TenPhong>Phòng A326</TenPhong>
+        <DienTich>64</DienTich>
+        <Tang>3</Tang>
+        <SoNguoiO>8</SoNguoiO>
+        <GiaTien>600000</GiaTien>
+    </phong>
+    <phong rollno="14">
+        <MaPhong>A406</MaPhong>
+        <TenPhong>Phòng A406</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>4</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="15">
+        <MaPhong>A412</MaPhong>
+        <TenPhong>Phòng A412</TenPhong>
+        <DienTich>64</DienTich>
+        <Tang>4</Tang>
+        <SoNguoiO>8</SoNguoiO>
+        <GiaTien>600000</GiaTien>
+    </phong>
+    <phong rollno="16">
+        <MaPhong>A525</MaPhong>
+        <TenPhong>Phòng A525</TenPhong>
+        <DienTich>32</DienTich>
+        <Tang>5</Tang>
+        <SoNguoiO>4</SoNguoiO>
+        <GiaTien>1200000</GiaTien>
+    </phong>
+    <phong rollno="17">
+        <MaPhong>A527</MaPhong>
+        <TenPhong>Phòng A527</TenPhong>
+        <DienTich>64</DienTich>
+        <Tang>5</Tang>
+        <SoNguoiO>8</SoNguoiO>
+        <GiaTien>600000</GiaTien>
+    </phong>
+</Phong>
